@@ -14,6 +14,14 @@ body {
     text-align: center;
 }
 
+a {
+    color: #fff;
+}
+
+h1 {
+   line-height: 1.4; 
+}
+
 .button {
     border: 0;
     background-color: #fff;
@@ -38,6 +46,32 @@ body {
     justify-content: center;
     height: 100vh;
     width: 100vw;
+}
+
+.screen.up {
+    margin-top: -100vh;
+}
+
+.bug-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.bug-list li {
+    margin: 10px;
+}
+
+.choose-bug-button {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    width: 150px;
+    height: 150px;
 }
 
 .choose-bug-button img {
