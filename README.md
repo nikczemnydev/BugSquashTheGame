@@ -1,4 +1,4 @@
-Bug Squasher - my new product is a fun and interactive game that challenges your reflexes and hand-eye coordination. The game is written in HTML, CSS, and JavaScript and is perfect for those who are interested in learning how to code games.
+Bug Squasher - my new product is a fun and interactive game that challenges your reflexes and hand-eye coordination. The game is written in HTML, CSS, and Vanilla JavaScript and is perfect for those who are interested in learning how to code games.
 
 In Bug Squasher, you get to choose between four different bugs and squash them by clicking on them. However, the faster you squash them, the faster new ones appear, eventually flooding your screen. It’s impossible to win the game, but it’s a great way to test your skills and see how many bugs you can squash before your screen is completely filled.
 
